@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arihant09/fullstackapp/static/css/main.0349f2f4.css",
+    "main.js": "/arihant09/fullstackapp/static/js/main.afa88b2f.js",
+    "index.html": "/arihant09/fullstackapp/index.html",
+    "main.0349f2f4.css.map": "/arihant09/fullstackapp/static/css/main.0349f2f4.css.map",
+    "main.afa88b2f.js.map": "/arihant09/fullstackapp/static/js/main.afa88b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0349f2f4.css",
+    "static/js/main.afa88b2f.js"
+  ]
+}
