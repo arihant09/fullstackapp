@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/arihant09/fullstackapp.git/static/css/main.0349f2f4.css",
-    "main.js": "/arihant09/fullstackapp.git/static/js/main.afa88b2f.js",
-    "index.html": "/arihant09/fullstackapp.git/index.html",
-    "main.0349f2f4.css.map": "/arihant09/fullstackapp.git/static/css/main.0349f2f4.css.map",
-    "main.afa88b2f.js.map": "/arihant09/fullstackapp.git/static/js/main.afa88b2f.js.map"
+    "main.css": "/fullstackapp/static/css/main.0349f2f4.css",
+    "main.js": "/fullstackapp/static/js/main.afa88b2f.js",
+    "index.html": "/fullstackapp/index.html",
+    "main.0349f2f4.css.map": "/fullstackapp/static/css/main.0349f2f4.css.map",
+    "main.afa88b2f.js.map": "/fullstackapp/static/js/main.afa88b2f.js.map"
   },
   "entrypoints": [
     "static/css/main.0349f2f4.css",
